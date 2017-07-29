@@ -2,6 +2,11 @@
 
 |时间|知识点|
 |--|--|
+2017-07-12 | JavaScript 数据类型
+2017-07-13 | Javascript 函数
+2017-07-14 | Javascript 条件语句
+2017-07-15 | JavaScript 类型转换 
+2017-07-17 | Javascript 闭包
 2017-07-18 | JavaScript 回调
 2017-07-20 | JavaScript Promise
 2017-07-21 | Node.js moudle exports,require
