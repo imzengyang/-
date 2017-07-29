@@ -1,0 +1,24 @@
+{
+  "name": "everystudy",
+  "version": "1.0.0",
+  "description": "|时间|知识点|\r |--|--|\r 2017-07-18 | JavaScript 回调\r 2017-07-20 | JavaScript Promise\r 2017-07-21 | Node.js moudle exports,require\r 2017-07-22 | JavaScript 对象\r 2017-07-23 | 部署linux 环境 使用最简单的方式做nodeclub社区的自动化测试\r 2017-07-24 | selenium-webdriver sendKeys() 上传文件或者使用 AutoIt 辅助上传 \r 2017-07-25 | Node.js Path\r 2017-07-26 | Node.js Child Processes\r 2017-07-27 | Node.js fs",
+  "main": "2017-07-12.js",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "selenium-webdriver": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imzengyang/-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imzengyang/-/issues"
+  },
+  "homepage": "https://github.com/imzengyang/-#readme"
+}
