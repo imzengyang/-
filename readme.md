@@ -21,3 +21,4 @@
 2017-07-31 | selenium-cucumber Background https://github.com/imzengyang/cucumber-selenium
 2017-08-01 | selenium-cucumber Docstring  https://github.com/imzengyang/cucumber-selenium
 2017-08-02 | Cucumber.js Datatable https://github.com/imzengyang/cucumber-selenium
+2017-08-03 | Cucumber.js 设置超时时间 https://github.com/imzengyang/cucumber-selenium
